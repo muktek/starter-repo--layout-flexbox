@@ -1,0 +1,56 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgba(255, 152, 0, 0.2);
+  font-family: -apple-system;
+}
+
+code {
+  font-family: Menlo;
+}
+
+.parent,
+.parent1,
+.parent2,
+.parent3,
+.parent4,
+.parent5,
+.parent6,
+.parent7,
+.parent8,
+.parent9,
+.parent10,
+.parent11,
+.parent12,
+.parent13,
+.parent14,
+.parent15,
+.parent16,
+.parent17,
+.parent18,
+.parent19,
+.parent20,
+.parent21,
+.parent22,
+.parent23,
+.parent24,
+.parent25 {
+  width: 300px;
+  background-color: purple;
+}
+
+.item,
+.item1 {
+  width: 80px;
+  height: 80px;
+  background-color: orange;
+  border: 1px solid black;
+}
+
+.item1 {
+  width: 100px;
+}
